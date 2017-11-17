@@ -884,9 +884,34 @@ padding-top:5px;
     color: #000;
 }
 
-.custom_container_main{
-    padding-left: 10px;
-    padding-right:10px;
+/**container fluid formater***/
+
+/***announcements home page***/
+
+.announcement_container{
+    background:#ccc;
+    
+}
+
+.announcement_heading{
+    border: 1px solid #000;
+}
+
+.announcer {
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+}
+
+.panel-heading{
+    padding: 10px 15px;
+    background-color: #f5f5f5;
+    border-top: 1px solid #ddd;
+    border-bottom-right-radius: 3px;
+    border-bottom-left-radius: 3px;
+    
 }
 
 
