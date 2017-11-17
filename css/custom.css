@@ -884,7 +884,10 @@ padding-top:5px;
     color: #000;
 }
 
-
+.custom_container_main{
+    padding-left: 10px;
+    padding-right:10px;
+}
 
 
 
