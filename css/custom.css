@@ -889,8 +889,7 @@ padding-top:5px;
 /***announcements home page***/
 
 .announcement_container{
-    background:#ccc;
-    
+    overflow-y: auto;
 }
 
 .announcement_heading{
@@ -913,6 +912,10 @@ padding-top:5px;
     border-bottom-left-radius: 3px;
     
 }
+
+a.devam{color:none;}
+
+.structure_sama{background:#000;color:#FFD300;}
 
 
 
